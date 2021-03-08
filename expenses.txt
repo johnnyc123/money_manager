@@ -1,0 +1,17 @@
+lidl 2.00
+tEsco 4.50
+starbucks 6.7
+Supervalu 4.1
+dunnes stores 3.00
+Marks and spencers 7.89
+insomnia 2.5
+Eurospar 90.00
+Texaco 20.00
+topaz 10.00
+apache 22.2
+weatherspoons 22.10
+costa 8.00
+dublin bus 2.1
+irish rail 22.01
+bunsen 10.00
+five guys 22.1
